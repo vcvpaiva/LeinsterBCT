@@ -13,5 +13,5 @@ There are already repositories for:
 
 Other repos are being considered:
 * [Discrete Maths](https://github.com/EliKarmon/DiscreteCorporaChapman)
-* [Category Theory in Context](https://mathgloss.github.io/MathGloss/context.html) [Category Theory in Context](https://math.jhu.edu/~eriehl/context.pdf) by Emily Riehl.
+* [Category Theory in Context](https://mathgloss.github.io/MathGloss/context.html) Book by Emily Riehl [here](https://math.jhu.edu/~eriehl/context.pdf) 
 * [Topoi](https://github.com/MathGloss/MathGloss/tree/main/topoi) Book by Rob Goldblatt [here](https://projecteuclid.org/ebooks/books-by-independent-authors/Topoi-The-Categorial-Analysis-of-Logic/toc/bia/1403013939)
